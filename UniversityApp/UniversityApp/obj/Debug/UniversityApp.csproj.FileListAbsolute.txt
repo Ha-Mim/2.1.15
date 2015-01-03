@@ -1,0 +1,10 @@
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\obj\Debug\UniversityApp.EntryUI.resources
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MainUI.resources
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\obj\Debug\UniversityApp.UniversityUI.resources
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+D:\asp.net\2.2.15\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
